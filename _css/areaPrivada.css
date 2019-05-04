@@ -1,0 +1,11 @@
+div#private{
+    text-align: center;
+    margin: 300px auto 0 auto;
+}
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: underline;
+}
